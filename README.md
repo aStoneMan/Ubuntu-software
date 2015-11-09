@@ -37,8 +37,8 @@ how to create a environment for your Ubuntu
 <br />如果你需要一个虚拟机请去看看我的另一篇文章。  
 <br />https://github.com/aStoneMan/VMware-Workstation-Ubuntu/blob/master/README.md
 <br />
-<br />
-<br />
+<br />如果你需要一个sublime请去看看我的另一篇文章。
+<br />https://github.com/aStoneMan/sublime-Text3/blob/master/README.md
 <br />
 <br />
 <br />可能你还需要一款在ubuntu下的词典，你可以搜索星际译王，下载使用。但是你会发现，他里面并没有词典需要自行下载，可是因为它已经失去支持。无法从官方途径下载。你会需要到以下网站下载
